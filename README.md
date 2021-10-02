@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olemart1n
-- 👀 I’m interested in front end /crypto
-- 🌱 I’m currently learning front end /crypto
+- 👀 I’m interested in front end 
+- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
