@@ -4,8 +4,8 @@ olemart1n/olemart1n is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi👋
-### I am Ole and I am currently studying Front-end at Noroff online studies.
+## 👋
+### My name is Ole and I am currently studying Front-end at Noroff online studies.
 
 My hope is to one day get a job as a frontend developer
 
