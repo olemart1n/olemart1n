@@ -4,6 +4,6 @@ olemart1n/olemart1n is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Frontend developer
+## Hi there.
 
-Ole Martin Snoen
+My name is Ole Martin. I create web applications.
