@@ -4,6 +4,7 @@ olemart1n/olemart1n is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi there.
+## Hi there. I am Ole.
 
-My name is Ole Martin. I create web applications.
+typescript<3
+go<3
