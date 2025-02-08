@@ -4,7 +4,6 @@ olemart1n/olemart1n is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi there. I am Ole.
+## I am Ole.
 
-typescript<3
-go<3
+I am interested in web development.
